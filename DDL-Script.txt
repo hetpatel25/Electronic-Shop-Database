@@ -1,5 +1,5 @@
--- create schema jetha_;
--- SET SEARCH_PATH TO jetha_;
+-- create schema Electronic_shop;
+-- SET SEARCH_PATH TO Electronic_shop;
 
 CREATE TABLE Admin (
 Admin_id varchar (5),
